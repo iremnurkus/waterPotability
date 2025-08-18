@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "541563790004",
+    "project_id": "waterpotabilityapp",
+    "storage_bucket": "waterpotabilityapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541563790004:android:4f444859d8234d2754ede1",
+        "android_client_info": {
+          "package_name": "com.example.waterpotabilityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1BwUN8ldCQCo2j3vSwQY515NvkbKLFnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
